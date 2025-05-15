@@ -2,7 +2,6 @@
 
 Welcome to **Xylora** — an innovation-driven organization building open-source tools for the future.
 
-![Banner](https://your-image-link.com/banner.png)
 
 ## 🚀 Mission
 To create privacy-first, user-focused technologies for the modern web.
